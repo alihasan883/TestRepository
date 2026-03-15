@@ -1,3 +1,3 @@
 #  output test
 
-print("hello word")
+print("hello word to python ")
